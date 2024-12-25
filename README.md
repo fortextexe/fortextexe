@@ -1,3 +1,3 @@
-```
-HelloWorld('console.log');
+```javascript
+console.log('Hello, I'm førtext');
 ```
