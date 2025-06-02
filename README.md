@@ -2,9 +2,10 @@
 console.log('Hello, I'm førtext');
 ```
 
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fortextexe?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700)](https://fortextdev.xyz)
+
 [![Lanyard](https://lanyard.cnrad.dev/api/1222867645238345799)](https://fortextdev.xyz)
 
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fortextexe?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700)](https://fortextdev.xyz)
 
 <div align="center">
   <a href="https://fortextdev.xyz">
