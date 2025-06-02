@@ -12,7 +12,9 @@ console.log('Hello, I'm førtext');
 
 [![Lanyard](https://lanyard.cnrad.dev/api/1222867645238345799)](https://fortextdev.xyz)
 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,api,php,tailwind" />
+</div>
 
 
 [![Profile views](https://komarev.com/ghpvc/?username=fortextexe&label=Profile%20views&color=0e75b6&style=flat)](https://fortextdev.xyz)
