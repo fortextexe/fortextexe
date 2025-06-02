@@ -13,7 +13,23 @@ console.log('Hello, I'm førtext');
 [![Lanyard](https://lanyard.cnrad.dev/api/1222867645238345799)](https://fortextdev.xyz)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,api,php,tailwind" />
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html" /></td>
+      <td><img src="https://skillicons.dev/icons?i=css" /></td>
+      <td><img src="https://skillicons.dev/icons?i=js" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=ts" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://pics.freeicons.io/uploads/icons/png/5760858321679032160-512.png" width="32" height="32" alt="api icon" /></td>
+      <td><img src="https://skillicons.dev/icons?i=php" /></td>
+    </tr>
+  </table>
 </div>
 
 
