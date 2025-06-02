@@ -1,8 +1,10 @@
 ```javascript
 console.log('Hello, I'm førtext');
 ```
-![Lanyard](https://lanyard.cnrad.dev/api/1222867645238345799)
-![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fortextexe?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700)
+
+[![Lanyard](https://lanyard.cnrad.dev/api/1222867645238345799)](https://fortextdev.xyz)
+
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fortextexe?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700)](https://fortextdev.xyz)
 
 <div align="center">
   <a href="https://fortextdev.xyz">
@@ -10,4 +12,4 @@ console.log('Hello, I'm førtext');
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=fortextexe&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile views](https://komarev.com/ghpvc/?username=fortextexe&label=Profile%20views&color=0e75b6&style=flat)](https://fortextdev.xyz)
